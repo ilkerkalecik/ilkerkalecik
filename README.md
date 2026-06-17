@@ -101,14 +101,6 @@ I build full-stack web/mobile applications and applied AI systems — from .NET 
 
 ---
 
-### Contributions
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/409ba5/ilkerkalecik" alt="ilkerkalecik's GitHub contribution chart" />
-</p>
-
----
-
 ### Contact
 
 **Email:** [ilkerkalecik9@gmail.com](mailto:ilkerkalecik9@gmail.com)  
