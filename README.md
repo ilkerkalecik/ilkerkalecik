@@ -63,7 +63,6 @@ I build full-stack web/mobile applications and applied AI systems — from .NET 
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
@@ -76,6 +75,18 @@ I build full-stack web/mobile applications and applied AI systems — from .NET 
 <table>
   <tr>
     <td width="50%" valign="top">
+      <h3><a href="https://github.com/ilkerkalecik/Kalecik-Academy-Showcase">Kalecik Academy</a></h3>
+      <p>Online learning platform showcase — course management, content delivery, learner experience.</p>
+      <p><b>Stack:</b> Full-stack web application</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/ilkerkalecik/Randevu-Sistemi-Showcase">Randevu Sistemi</a></h3>
+      <p>Full-stack appointment & booking system with separate backend and frontend, showcase docs and screenshots.</p>
+      <p><b>Stack:</b> Backend API · Modern web frontend</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
       <h3><a href="https://github.com/ilkerkalecik/SolfejGo">SolfejGo</a></h3>
       <p>Gamified music learning platform — upload sheet music as PDF/image, get OMR-extracted solfege, practice with real-time microphone pitch validation.</p>
       <p><b>Stack:</b> .NET 9 · Flutter · Python FastAPI · PostgreSQL · MinIO · Docker</p>
@@ -86,31 +97,14 @@ I build full-stack web/mobile applications and applied AI systems — from .NET 
       <p><b>Stack:</b> Python · PyTorch · ONNX · MediaPipe · OpenCV · FastAPI</p>
     </td>
   </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/ilkerkalecik/Randevu-Sistemi-Showcase">Randevu Sistemi</a></h3>
-      <p>Full-stack appointment & booking system with separate backend and frontend, showcase docs and screenshots.</p>
-      <p><b>Stack:</b> Backend API · Modern web frontend</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/ilkerkalecik/Kalecik-Academy-Showcase">Kalecik Academy</a></h3>
-      <p>Online learning platform showcase — course management, content delivery, learner experience.</p>
-      <p><b>Stack:</b> Full-stack web application</p>
-    </td>
-  </tr>
 </table>
 
 ---
 
-### GitHub Stats
+### Contributions
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ilkerkalecik&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilkerkalecik&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ilkerkalecik&theme=tokyonight&hide_border=true" />
+  <img src="https://ghchart.rshah.org/409ba5/ilkerkalecik" alt="ilkerkalecik's GitHub contribution chart" />
 </p>
 
 ---
