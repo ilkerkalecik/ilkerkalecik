@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm İlker Kalecik</h1>
-<h3 align="center">Software Engineer · Full-Stack & AI Enthusiast</h3>
+<h1 align="center">İlker Kalecik</h1>
+<h3 align="center">Software Engineer — Full-Stack & Applied AI</h3>
 
 <p align="center">
   <a href="mailto:ilkerkalecik9@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -9,19 +9,19 @@
 
 ---
 
-### 🇬🇧 About me
+### About
 
-I build **full-stack web/mobile apps** and **applied AI systems** — from .NET microservices to Flutter mobile UIs, to deep-learning pipelines for computer vision. I enjoy turning hard research problems into shippable products and writing clean, maintainable code along the way.
+I build full-stack web/mobile applications and applied AI systems — from .NET microservices to Flutter mobile UIs, to deep-learning pipelines for computer vision. I enjoy turning research-grade problems into shippable products and writing clean, maintainable code.
 
-**Currently exploring:** real-time pitch detection, OMR (optical music recognition), deep learning for student engagement analysis, and graph-based data analytics.
+**Currently exploring:** real-time pitch detection, optical music recognition (OMR), deep learning for student engagement analysis, graph-based data analytics.
 
-### 🇹🇷 Hakkımda
+### Hakkımda
 
-**.NET + React/Flutter + Python AI** üçgeninde full-stack projeler geliştiriyorum. Backend tarafında Clean Architecture & CQRS, frontend'de modern UI, AI tarafında ise PyTorch / MediaPipe / ONNX ile uçtan uca pipeline'lar inşa etmeyi seviyorum.
+.NET + React/Flutter + Python AI üçgeninde full-stack projeler geliştiriyorum. Backend'de Clean Architecture & CQRS, frontend'de modern UI, AI tarafında PyTorch / MediaPipe / ONNX ile uçtan uca pipeline'lar kuruyorum.
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 **Languages**
 <p>
@@ -71,29 +71,29 @@ I build **full-stack web/mobile apps** and **applied AI systems** — from .NET 
 
 ---
 
-### 🚀 Featured Projects
+### Featured Projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🎼 <a href="https://github.com/ilkerkalecik/SolfejGo">SolfejGo</a></h3>
+      <h3><a href="https://github.com/ilkerkalecik/SolfejGo">SolfejGo</a></h3>
       <p>Gamified music learning platform — upload sheet music as PDF/image, get OMR-extracted solfege, practice with real-time microphone pitch validation.</p>
       <p><b>Stack:</b> .NET 9 · Flutter · Python FastAPI · PostgreSQL · MinIO · Docker</p>
     </td>
     <td width="50%" valign="top">
-      <h3>🧠 <a href="https://github.com/ilkerkalecik/Ogrenci-Dikkat-Analizi">Öğrenci Dikkat Analizi</a></h3>
-      <p>Real-time student attention classifier from webcam. DAiSEE-trained Wakee-Reloaded (EfficientNet-B4) + MediaPipe face/pose landmarks + YOLOv8 body detection.</p>
+      <h3><a href="https://github.com/ilkerkalecik/Ogrenci-Dikkat-Analizi">Öğrenci Dikkat Analizi</a></h3>
+      <p>Real-time student attention classifier from webcam. DAiSEE-trained Wakee-Reloaded (EfficientNet-B4) with MediaPipe face/pose landmarks and YOLOv8 body detection.</p>
       <p><b>Stack:</b> Python · PyTorch · ONNX · MediaPipe · OpenCV · FastAPI</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>📅 <a href="https://github.com/ilkerkalecik/Randevu-Sistemi-Showcase">Randevu Sistemi</a></h3>
-      <p>Full-stack appointment & booking system with separate backend & frontend, showcase docs and screenshots.</p>
+      <h3><a href="https://github.com/ilkerkalecik/Randevu-Sistemi-Showcase">Randevu Sistemi</a></h3>
+      <p>Full-stack appointment & booking system with separate backend and frontend, showcase docs and screenshots.</p>
       <p><b>Stack:</b> Backend API · Modern web frontend</p>
     </td>
     <td width="50%" valign="top">
-      <h3>🎓 <a href="https://github.com/ilkerkalecik/Kalecik-Academy-Showcase">Kalecik Academy</a></h3>
+      <h3><a href="https://github.com/ilkerkalecik/Kalecik-Academy-Showcase">Kalecik Academy</a></h3>
       <p>Online learning platform showcase — course management, content delivery, learner experience.</p>
       <p><b>Stack:</b> Full-stack web application</p>
     </td>
@@ -102,7 +102,7 @@ I build **full-stack web/mobile apps** and **applied AI systems** — from .NET 
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=ilkerkalecik&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
@@ -115,9 +115,9 @@ I build **full-stack web/mobile apps** and **applied AI systems** — from .NET 
 
 ---
 
-### 💬 Let's connect
+### Contact
 
-📫 **Email:** [ilkerkalecik9@gmail.com](mailto:ilkerkalecik9@gmail.com)  
-💼 **LinkedIn:** [linkedin.com/in/ilkerkalecik](https://www.linkedin.com/in/ilkerkalecik)
+**Email:** [ilkerkalecik9@gmail.com](mailto:ilkerkalecik9@gmail.com)  
+**LinkedIn:** [linkedin.com/in/ilkerkalecik](https://www.linkedin.com/in/ilkerkalecik)
 
-> Open to collaboration on full-stack, AI/ML, and computer-vision projects.
+Open to collaboration on full-stack, AI/ML, and computer-vision projects.
